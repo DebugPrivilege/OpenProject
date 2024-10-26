@@ -1,4 +1,4 @@
-## Frequently Asked Questions
+# Frequently Asked Questions
 
 - **Q:** I’ve received a high or critical severity alert in my EDR on a machine that I suspect is compromised. What should I do next?  
   **A:** Run `CyLR.exe` (a forensic tool) via Live Response or another method to collect some forensic data. Once complete, ensure you retrieve the ZIP file containing this data. Afterward, you can proceed to isolate the server from the network.

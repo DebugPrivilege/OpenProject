@@ -47,7 +47,7 @@ Once your VM is set up, you’ll want to install the core tools for your IR tool
    - **Eric Zimmerman tools**: https://ericzimmerman.github.io/#!index.md
    - **Hayabusa**: https://github.com/Yamato-Security/hayabusa/releases
      
-3. **Malware Analysis**:
+3. **Malware Triage**:
    - **PE Studio**: https://www.winitor.com/download
    - **YARA**: https://github.com/virustotal/yara/releases
    - **Capa**: https://github.com/mandiant/capa/releases

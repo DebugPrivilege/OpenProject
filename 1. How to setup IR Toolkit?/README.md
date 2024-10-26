@@ -17,7 +17,7 @@ This guide explains how to set up a virtual environment for your Incident Respon
    - Press `Win + X` > Select **Hyper-V Manager**.
 
 2. **Create a New Virtual Machine**:
-   - In the **Actions** panel, select **New** > **Quick Create**.
+   - In the **Actions** panel, select **New** > **Quick Create** > **Windows 10 MSIX packaging environment**.
   
 ![image](https://github.com/user-attachments/assets/79c578a2-ed1c-40ac-88a8-76607698ee60)
 

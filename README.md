@@ -19,7 +19,7 @@ OpenProject covers a range of tools often used in Incident Response, including:
 
 ## Getting Started
 
-1. **Clone the Repository**
+**Clone the Repository**
 
    ```bash
    git clone https://github.com/yourusername/OpenProject.git

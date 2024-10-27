@@ -29,5 +29,8 @@ hayabusa-2.17.0-win-x64.exe csv-timeline -d C:\Users\Admin\Desktop\DC\C\Windows\
 
 ![image](https://github.com/user-attachments/assets/2cd1c64d-49ab-42d0-ac49-010c74dcec43)
 
+5. When the scan finishes, you’ll see a summary of all triggered detections, each marked with a severity level: high, medium, low or informational.
+
+![image](https://github.com/user-attachments/assets/e837a44b-a4e7-489e-b584-3d2065f535ac)
 
 

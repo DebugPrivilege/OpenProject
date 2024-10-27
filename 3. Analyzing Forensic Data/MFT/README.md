@@ -16,5 +16,8 @@ MFTECmd.exe -f "C:\Users\Admin\Desktop\DC\C\$MFT" --csv C:\Temp\DFIR
 
 ![image](https://github.com/user-attachments/assets/721a053a-4e56-4d90-b8b6-5e7dc27c807f)
 
+3. You can also load the .CSV file into Azure Data Explorer (ADX), where Microsoft provides a free 100 GB cluster. This lets you run Kusto queries to analyze the data.
+
+![image](https://github.com/user-attachments/assets/469883cf-9853-47ec-8d31-df0d1d0c9004)
 
 

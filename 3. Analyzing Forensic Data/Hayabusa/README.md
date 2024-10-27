@@ -20,3 +20,14 @@ hayabusa-2.17.0-win-x64.exe csv-timeline -d C:\Users\Admin\Desktop\DC\C\Windows\
 ```
 
 ![image](https://github.com/user-attachments/assets/d0313e12-e7d0-4fa1-9c4b-fa6680cd2a6e)
+
+3. You'll now be prompted to choose an option in the scan wizard. I recommend selecting option 5, which includes all event and alert rules.
+
+![image](https://github.com/user-attachments/assets/ba9c0ed3-440b-41b5-814c-27c7c1c53f7f)
+
+4. Next, you'll be prompted to choose a set of detection rules to load, which may include deprecated, unsupported, or noisy rules, among others. Here’s what I selected in this example:
+
+![image](https://github.com/user-attachments/assets/2cd1c64d-49ab-42d0-ac49-010c74dcec43)
+
+
+

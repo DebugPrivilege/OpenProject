@@ -26,6 +26,7 @@ The *--usnjrnl* option ensures that USN Journal artifacts are included in the co
 
 ## Forensic Metadata/Artifacts Collected by CyLR
 
+```
 |------------------------|------------------------|
 | Windows Event Logs     | NTFS Update Sequence Number Journal ($UsnJrnl:$J) |
 | Windows Prefetch Files | Scheduled Tasks        |
@@ -33,7 +34,7 @@ The *--usnjrnl* option ensures that USN Journal artifacts are included in the co
 | Web Browser History    | ShimCache (AppCompatCache) |
 | PowerShell Console History | Iconcache Database   |
 | NTFS Master File Table ($MFT) | Activitiescache Database |
-
+```
 
 
 

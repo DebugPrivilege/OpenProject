@@ -16,4 +16,8 @@ AmcacheParser.exe -f "E:\Windows\AppCompat\Programs\Amcache.hve" --csv C:\Temp
 
 2. Now, you can use Eric Zimmerman’s Timeline Explorer to load the .CSV output and analyze the raw data.
 
-![image](https://github.com/user-attachments/assets/c479762f-6522-4f40-9460-31cf2dd2b929)
+![image](https://github.com/user-attachments/assets/b3df5b67-636a-4297-b7e3-0be1b6a1fff1)
+
+3. You can also load the .CSV file into Azure Data Explorer (ADX), where Microsoft provides a free 100 GB cluster. This lets you run Kusto queries to analyze the data.
+
+![image](https://github.com/user-attachments/assets/beb252aa-98d3-43e8-9c18-5b4aa9eee380)

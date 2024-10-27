@@ -1,6 +1,6 @@
 # CyLR
 
-CyLR is a forensic tool built to quickly and securely gather key artifacts from NTFS systems with minimal impact. It collects important data without relying on the Windows API, which makes the process fast and discreet. You can customize what’s collected, even targeting specific types of files like those in use, hidden, or system files, including alternate data streams. The collected data is stored in a ZIP file, with options to adjust compression, set a password, and send it to an SFTP location if needed.
+CyLR is a one-time, point-in-time data collection tool that runs as a single executable. It’s built to quickly gather key forensic artifacts from NTFS systems with minimal impact and doesn’t run continuously in the background. CyLR collects data without using the Windows API, making the process faster and more discreet. You can customize what it gathers, including in-use, hidden, and system files like alternate data streams. The data is saved in a ZIP file, with options to adjust compression, add a password, and send it to an SFTP location if needed.
 
 ---
 

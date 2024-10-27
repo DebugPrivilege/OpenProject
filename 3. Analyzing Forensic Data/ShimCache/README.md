@@ -25,5 +25,7 @@ AppCompatCacheParser.exe -f "C:\Users\Admin\Desktop\DC\C\Windows\System32\config
 
 ## Good thing to know
 
-The AppCompatCache, or ShimCache, doesn't have a direct "execution" flag to confirm if a file was actually run on the system. In earlier Windows versions, there wasn’t a reliable way to tell if a file had been executed based on ShimCache alone. Windows 10 improved this by adding a flag that gives a better indication of execution, though it's not foolproof. Forensic analysts still need to check other sources, like Prefetch files or event logs, to be certain a file was executed.
+The AppCompatCache, or ShimCache, doesn't have a direct *"execution"* flag to confirm if a file was actually run on the system. In earlier Windows versions, there wasn’t a reliable way to tell if a file had been executed based on ShimCache alone. Windows 10 improved this by adding a flag that gives a better indication of execution, though it's not foolproof. Forensic analysts still need to check other sources, like Prefetch files or event logs, to be certain a file was executed.
+
+In ShimCache, the *"LastModifiedTime"* refers to when the file’s contents were last changed, not when it was executed or accessed. This timestamp shows the last time the file itself was modified, and it’s recorded when the file is added to the cache. However, it can be misleading, as it reflects the file’s modification time rather than the actual time it was opened or run by the system or user.
 

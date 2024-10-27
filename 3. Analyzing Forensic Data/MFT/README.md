@@ -12,7 +12,7 @@ MFTECmd.exe -f "C:\Users\Admin\Desktop\DC\C\$MFT" --csv C:\Temp\DFIR
 
 ![image](https://github.com/user-attachments/assets/1005bb0b-7cb9-48e9-becb-3e1b7a73d408)
 
-2. Now, we can use Eric Zimmerman’s Timeline Explorer to load the .CSV output and analyze the raw data.
+2. Now, you can use Eric Zimmerman’s Timeline Explorer to load the .CSV output and analyze the raw data.
 
 ![image](https://github.com/user-attachments/assets/721a053a-4e56-4d90-b8b6-5e7dc27c807f)
 

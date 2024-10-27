@@ -22,4 +22,4 @@ AmcacheParser.exe -f "E:\Windows\AppCompat\Programs\Amcache.hve" --csv C:\Temp
 
 ![image](https://github.com/user-attachments/assets/beb252aa-98d3-43e8-9c18-5b4aa9eee380)
 
-A good thing to know is that the timestamp in the "File Key Last Write Timestamp" column of AmCache represents the last time that the entry for the file in question was modified, which is not necessarily when the file was executed.
+A good thing to know is that the timestamp in the *"FileKeyLastWriteTimestamp"* column of AmCache represents the last time that the entry for the file in question was modified, which is not necessarily when the file was executed.

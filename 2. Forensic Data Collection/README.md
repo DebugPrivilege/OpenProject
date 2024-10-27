@@ -20,6 +20,9 @@ The *--usnjrnl* option ensures that USN Journal artifacts are included in the co
 
 ![image](https://github.com/user-attachments/assets/cc524d02-01a1-430d-a314-38e999164a0e)
 
+2. After collecting all the data, CyLR generates a ZIP file in the same directory where CyLR.exe was run, with the computer name included in the file name by default. This ZIP file should then be shared with the incident response team for further analysis.
+
+![image](https://github.com/user-attachments/assets/d071c488-4316-44c3-b679-18b522947e87)
 
 
 

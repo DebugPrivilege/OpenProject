@@ -10,9 +10,7 @@ CyLR is based on .NET Core and runs smoothly on Windows, Linux, and macOS, with 
 
 ## How to run this tool?
 
-1. Ensure CyLR is excluded from your AV/EDR, as these solutions may block the tool from running.
-
-2. Run the following command as an **Administrator**:
+1. Run the following command as an **Administrator**:
 
 ```
 CyLR.exe --usnjrnl
@@ -22,7 +20,7 @@ The *--usnjrnl* option ensures that USN Journal artifacts are included in the co
 
 ![image](https://github.com/user-attachments/assets/cc524d02-01a1-430d-a314-38e999164a0e)
 
-3. After collecting all the data, CyLR generates a ZIP file in the same directory where CyLR.exe was run, with the computer name included in the file name by default. This ZIP file should then be shared with the incident response team for further analysis.
+2. After collecting all the data, CyLR generates a ZIP file in the same directory where CyLR.exe was run, with the computer name included in the file name by default. This ZIP file should then be shared with the incident response team for further analysis.
 
 ![image](https://github.com/user-attachments/assets/d071c488-4316-44c3-b679-18b522947e87)
 

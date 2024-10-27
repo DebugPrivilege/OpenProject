@@ -37,3 +37,7 @@ hayabusa-2.17.0-win-x64.exe csv-timeline -d C:\Users\Admin\Desktop\DC\C\Windows\
 
 ![image](https://github.com/user-attachments/assets/0cd6f5c7-ab5b-40dd-836e-361319392772)
 
+7. You can also load the .CSV file into Azure Data Explorer (ADX), where Microsoft provides a free 100 GB cluster. This lets you run Kusto queries to analyze the data.
+
+![image](https://github.com/user-attachments/assets/fcd6ae7d-5310-4ba9-af7a-71f82e4ab555)
+

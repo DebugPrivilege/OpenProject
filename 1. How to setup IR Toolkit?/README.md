@@ -60,6 +60,7 @@ Once your VM is set up, you’ll want to install the core tools for your IR tool
    - **SQL Lite Browser**: https://sqlitebrowser.org/dl/
    - **TOR Browser**: https://www.torproject.org/download/
    - **MemProcFS**: https://github.com/ufrisk/MemProcFS/releases/
-
+   - **Azure Data Explorer Cluster**: https://learn.microsoft.com/en-us/azure/data-explorer/start-for-free
+     
 This VM is now ready to serve as your IR toolkit environment. Please make sure to create a snapshot of your VM once everything has been configured and installed.
 

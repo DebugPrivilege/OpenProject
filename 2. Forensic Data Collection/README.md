@@ -7,3 +7,21 @@ CyLR is a forensic tool built to quickly and securely gather key artifacts from 
 ## Key Features
 
 CyLR is based on .NET Core and runs smoothly on Windows, Linux, and macOS, with standalone versions for each platform available from version 2.0 onward.
+
+## How to run this tool?
+
+1. Run the following command as an Administrator:
+
+```
+CyLR.exe --usnjrnl
+```
+
+The *--usnjrnl* option ensures that USN Journal artifacts are included in the collection. Without this option, USN Journal data will not be collected.
+
+![image](https://github.com/user-attachments/assets/cc524d02-01a1-430d-a314-38e999164a0e)
+
+
+
+
+
+

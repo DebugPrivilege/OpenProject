@@ -26,6 +26,8 @@ The *--usnjrnl* option ensures that USN Journal artifacts are included in the co
 
 ## Forensic Metadata/Artifacts Collected by CyLR
 
+This provides a high-level overview of the forensic artifacts that CyLR currently collects:
+
 | Artifact                                | Artifact                                |
 | --------------------------------------- | --------------------------------------- |
 | Windows Event Logs                      | NTFS Update Sequence Number Journal ($UsnJrnl:$J) |

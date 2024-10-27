@@ -4,7 +4,7 @@ CyLR is a forensic tool built to quickly and securely gather key artifacts from 
 
 ---
 
-## Key Features
+## Compatibility
 
 CyLR is based on .NET Core and runs smoothly on Windows, Linux, and macOS, with standalone versions for each platform available from version 2.0 onward.
 

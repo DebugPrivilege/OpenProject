@@ -6,3 +6,17 @@ One of the key features of Hayabusa is its use of Sigma rules, which are communi
 
 
 ---
+
+## How to start?
+
+1. Start by extracting the ZIP file from the machine where you collected the forensic data.
+
+![image](https://github.com/user-attachments/assets/c2df754d-9076-45eb-8335-7c8d7ff28c6e)
+
+2. Run the following command to scan the evtx files with Hayabusa:
+
+```
+hayabusa-2.17.0-win-x64.exe csv-timeline -d C:\Users\Admin\Desktop\DC\C\Windows\System32\winevt\Logs -o DC.csv
+```
+
+![image](https://github.com/user-attachments/assets/d0313e12-e7d0-4fa1-9c4b-fa6680cd2a6e)

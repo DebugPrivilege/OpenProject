@@ -23,5 +23,7 @@ AppCompatCacheParser.exe -f "C:\Users\Admin\Desktop\DC\C\Windows\System32\config
 
 ![image](https://github.com/user-attachments/assets/c5c2cadb-7320-4469-a150-c5be9522f415)
 
+## Good thing to know
+
 The AppCompatCache, or ShimCache, doesn't have a direct "execution" flag to confirm if a file was actually run on the system. In earlier Windows versions, there wasn’t a reliable way to tell if a file had been executed based on ShimCache alone. Windows 10 improved this by adding a flag that gives a better indication of execution, though it's not foolproof. Forensic analysts still need to check other sources, like Prefetch files or event logs, to be certain a file was executed.
 

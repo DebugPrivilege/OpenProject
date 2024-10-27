@@ -33,7 +33,7 @@ hayabusa-2.17.0-win-x64.exe csv-timeline -d C:\Users\Admin\Desktop\DC\C\Windows\
 
 ![image](https://github.com/user-attachments/assets/e837a44b-a4e7-489e-b584-3d2065f535ac)
 
-6. Now, we can use Eric Zimmerman’s Timeline Explorer to load the .CSV output from Hayabusa and analyze the raw data.
+6. Now, you can use Eric Zimmerman’s Timeline Explorer to load the .CSV output from Hayabusa and analyze the raw data.
 
 ![image](https://github.com/user-attachments/assets/0cd6f5c7-ab5b-40dd-836e-361319392772)
 

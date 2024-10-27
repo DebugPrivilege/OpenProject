@@ -4,7 +4,7 @@ The Master File Table (MFT) is a core component of the NTFS file system, which k
 
 ## How to start?
 
-1. Use MFTECmd.exe to parse the MFT file into a CSV format, which can then be loaded into tools like Timeline Explorer. To do this, run the following command:
+1. Use MFTECmd.exe to parse the $MFT file into a CSV format, which can then be loaded into tools like Timeline Explorer. To do this, run the following command:
 
 ```
 MFTECmd.exe -f "C:\Users\Admin\Desktop\DC\C\$MFT" --csv C:\Temp\DFIR

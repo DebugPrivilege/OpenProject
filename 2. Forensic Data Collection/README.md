@@ -12,7 +12,7 @@ CyLR is based on .NET Core and runs smoothly on Windows, Linux, and macOS, with 
 
 1. Ensure CyLR is excluded from your AV/EDR, as these solutions may block the tool from running.
 
-2. Run the following command as an Administrator:
+2. Run the following command as an **Administrator**:
 
 ```
 CyLR.exe --usnjrnl

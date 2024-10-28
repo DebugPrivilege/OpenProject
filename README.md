@@ -16,11 +16,3 @@ OpenProject covers a range of tools often used in Incident Response, including:
 
 - **Forensic Tools**: For collecting and analyzing data from affected devices.
 - **Log Analysis**: For reviewing logs to trace incidents.
-
-## Getting Started
-
-**Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/OpenProject.git
-   cd OpenProject

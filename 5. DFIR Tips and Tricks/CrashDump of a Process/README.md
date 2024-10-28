@@ -4,6 +4,9 @@ A crash dump of a process is a file that captures the state of a program at the 
 
 Sometimes malware crashes during execution, leaving behind a crash dump. These dumps capture memory and other details at the moment of the crash, which can be valuable for investigations. By scanning crash dumps with YARA, you can identify patterns or indicators of malware.
 
+![image](https://github.com/user-attachments/assets/ab430173-edf2-4b42-862d-2db4d13d953d)
+
+
 ## How to start?
 
 In an investigation of a Windows Server 2022 machine, two folders were found to contain process crash dumps by default, without any specific registry settings configured. These folders were located at:

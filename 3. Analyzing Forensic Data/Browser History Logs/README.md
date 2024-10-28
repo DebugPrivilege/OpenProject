@@ -26,6 +26,10 @@ C:\Users\Admin\Desktop\CyLR_win-x64\DESKTOP-9FOGEDE\C\Users\Admin\AppData\Local\
 
 ![image](https://github.com/user-attachments/assets/ae10a1ed-beb0-4a2c-a75a-894e31f643e9)
 
+2. Load the History file in SQL Lite Browser
+
+![image](https://github.com/user-attachments/assets/612357fb-f04b-4efb-937a-a9b0f5960e44)
+
 
 
 

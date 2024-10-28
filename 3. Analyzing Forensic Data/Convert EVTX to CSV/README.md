@@ -19,3 +19,5 @@ EvtxECmd.exe -f C:\Users\Admin\Desktop\DC\C\Windows\System32\winevt\Logs\Securit
 
 3. You can also load the .CSV file into Azure Data Explorer (ADX), where Microsoft provides a free 100 GB cluster. This lets you run Kusto queries to analyze the data. For EVTX files, this is typically recommended and it's much more efficient than searching in Timeline Explorer.
 
+![image](https://github.com/user-attachments/assets/09b27e00-32c4-4773-831a-ea04cac2178e)
+

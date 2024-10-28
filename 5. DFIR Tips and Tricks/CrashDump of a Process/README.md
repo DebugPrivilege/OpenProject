@@ -9,7 +9,9 @@ Sometimes malware crashes during execution, leaving behind a crash dump. These d
 
 ## How to start?
 
-In an investigation of a Windows Server 2022 machine, two folders were found to contain process crash dumps by default, without any specific registry settings configured. These folders were located at:
+When a process crashes, a crash dump can be generated and saved in `C:\ProgramData\Microsoft\Windows\WER\Temp`, but this isn't the default behavior. A specific registry value needs to be set to store dumps locally; otherwise, they are sent to the Microsoft Watson database by default.
+
+In an investigation of a Windows Server 2022 machine, two folders were found to contain process crash dumps by default, without any specific registry settings configured. The two folders are the following:
 
 ```
 C:\Users\<UserName>\AppData\Local\CrashDumps

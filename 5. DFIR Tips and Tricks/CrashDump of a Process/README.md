@@ -20,3 +20,12 @@ C:\Windows\System32\config\systemprofile\AppData\Local\CrashDumps
 
 ![image](https://github.com/user-attachments/assets/88ffbb79-fa1c-4733-9769-57a66841713d)
 
+1. Run the following LOKI command:
+
+```
+loki.exe -p C:\Users\Admin\Desktop\CrashDumps --noprocscan
+```
+
+LOKI flagged a memory dump as Cobalt Strike:
+
+![image](https://github.com/user-attachments/assets/64b9115b-a597-4f70-90eb-a6842b7a67b7)

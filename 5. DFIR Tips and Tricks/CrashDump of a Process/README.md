@@ -30,3 +30,10 @@ LOKI flagged a memory dump as Cobalt Strike:
 
 ![image](https://github.com/user-attachments/assets/d43fed17-cb79-41a3-a80e-56495a476d2b)
 
+2. After Loki flags a memory dump as Cobalt Strike, you can use the Python script **1768.py** on the dump to attempt extracting the Beacon configuration, which includes details about the C2 server and other settings.
+
+```
+python 1768.py -e C:\Users\Admin\Desktop\CrashDumps\updater.exe.7612.dmp
+```
+
+![image](https://github.com/user-attachments/assets/f469dbe1-8020-4b82-98c4-04f0b12a15b0)

@@ -12,8 +12,11 @@ In an investigation of a Windows Server 2022 machine, two folders were found to 
 C:\Users\<UserName>\AppData\Local\CrashDumps
 ```
 
+![image](https://github.com/user-attachments/assets/d6ab6899-71ee-4dec-bdf8-66427c0c984f)
+
 ```
 C:\Windows\System32\config\systemprofile\AppData\Local\CrashDumps
 ```
 
+![image](https://github.com/user-attachments/assets/88ffbb79-fa1c-4733-9769-57a66841713d)
 

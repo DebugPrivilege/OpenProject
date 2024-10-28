@@ -28,4 +28,5 @@ loki.exe -p C:\Users\Admin\Desktop\CrashDumps --noprocscan
 
 LOKI flagged a memory dump as Cobalt Strike:
 
-![image](https://github.com/user-attachments/assets/64b9115b-a597-4f70-90eb-a6842b7a67b7)
+![image](https://github.com/user-attachments/assets/d43fed17-cb79-41a3-a80e-56495a476d2b)
+

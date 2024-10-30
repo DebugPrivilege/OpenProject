@@ -55,7 +55,7 @@ function Convert-FileTimeToUTC {
     )
     # Convert FILETIME (100-nanosecond intervals) to .NET DateTime
     $dateTime = [DateTime]::FromFileTimeUtc([Int64]$fileTime)
-    return $dateTime.ToString("yyyy-MM-dd HH:mm:ss 'UTC'")
+    return $dateTime.ToString("yyyy-MM-dd HH:mm:ss")
 }
 
 # Function to extract and parse necessary fields from Report.wer

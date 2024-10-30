@@ -41,4 +41,8 @@ The `AppPath` can be quite lengthy, which limits the visibility of other columns
 
 ![image](https://github.com/user-attachments/assets/5fc9f1da-1336-485d-8bf2-489a79e8821c)
 
+6. Here’s how it looks when we load the CSV file into Azure Data Explorer, allowing us to run queries on the data.
+
+![image](https://github.com/user-attachments/assets/6a82f449-70c5-4a72-b0e4-a2f2ca98e137)
+
 

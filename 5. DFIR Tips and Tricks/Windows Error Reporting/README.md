@@ -39,5 +39,6 @@ The `AppPath` can be quite lengthy, which limits the visibility of other columns
 
 5. Similar to the previous example, we can now load the CSV file into Timeline Explorer or Azure Data Explorer for further analysis.
 
-![image](https://github.com/user-attachments/assets/2d515712-2f9b-46ef-ac66-82cbc6c70827)
+![image](https://github.com/user-attachments/assets/5fc9f1da-1336-485d-8bf2-489a79e8821c)
+
 

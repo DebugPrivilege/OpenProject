@@ -17,3 +17,14 @@ The `AppPath` can be quite lengthy, which limits the visibility of other columns
 
 ![image](https://github.com/user-attachments/assets/603e2da5-7ea7-42e8-ba66-50f3b53acabb)
 
+2. By using the `-OutputCsv` option, we can specify a file path to save the output in a CSV file that includes all columns.
+
+```
+.\WERParser.ps1 -OutputCsv C:\Temp\Output.csv
+```
+
+![image](https://github.com/user-attachments/assets/e9d70407-659c-4f67-8003-b78754dbf074)
+
+3. Now, you can use Eric Zimmerman’s Timeline Explorer to load the .CSV output and analyze the raw data.
+
+![image](https://github.com/user-attachments/assets/a4b1f4c9-f351-4ff0-90bb-2e9f174a3b5f)

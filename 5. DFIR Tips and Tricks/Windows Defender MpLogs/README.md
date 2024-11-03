@@ -31,11 +31,15 @@ I created this script for Live Response scenarios with Defender for Endpoint. Wh
 
 ![image](https://github.com/user-attachments/assets/1d471d0f-d1bc-4ce7-92a9-2548db62f0c5)
 
-4. Similarly, you can combine the `-CsvOutput` parameter with `-FilePath` to save the results in CSV format.
+4. You can combine the `-CsvOutput` parameter with `-FilePath` as well to save the results in CSV format.
 
 ```
 .\MpLogParser.ps1 -FilePath .\MPLog-20240704-220133.log -CsvOutput C:\MpResults\Results.csv
 ```
 
+5. Now, you can use Eric Zimmerman’s Timeline Explorer to load the .CSV output and analyze the raw data.
+
 ![image](https://github.com/user-attachments/assets/4a13a700-efd2-4d93-aa0b-d6166706ebb3)
+
+
 

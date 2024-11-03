@@ -20,7 +20,8 @@ I created this script for Live Response scenarios with Defender for Endpoint. Wh
 .\MpLogParser.ps1 -CsvOutput C:\MpResults\Results.csv
 ```
 
-![image](https://github.com/user-attachments/assets/747f5cf4-eba9-42e9-b151-59e9150d53c9)
+![image](https://github.com/user-attachments/assets/acb113a9-82b9-4270-8591-ab4c129a7040)
+
 
 3. If you receive a disk image or VHD(X) from a customer and need to parse the MpLog file, you can use the `-FilePath` parameter to specify the exact location of the MpLog file.
 

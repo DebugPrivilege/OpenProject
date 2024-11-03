@@ -6,4 +6,20 @@ I created this script for Live Response scenarios with Defender for Endpoint. Wh
 
 ## How to parse MpLogs
 
+1. If you run this script without any arguments, it will check the MpLog file in `C:\ProgramData\Microsoft\Windows Defender\Support` and display ALL the parsed results in the console.
+
+```
+.\MpLogParser.ps1
+```
+
+![image](https://github.com/user-attachments/assets/bcd28891-cffd-4da0-97fa-9467ce4b137f)
+
+2. If you use the `-CsvOutput` parameter, you can specify a folder to save all identified results from the MpLogs as a CSV file.
+
+```
+.\MpLogParser.ps1 -CsvOutput C:\MpResults\Results.csv
+```
+
+![image](https://github.com/user-attachments/assets/747f5cf4-eba9-42e9-b151-59e9150d53c9)
+
 

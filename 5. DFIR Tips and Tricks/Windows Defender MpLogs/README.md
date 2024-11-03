@@ -6,7 +6,7 @@ I created this script for Live Response scenarios with Defender for Endpoint. Wh
 
 ## How to parse MpLogs
 
-1. If you run this script without any arguments, it will check the MpLog file in `C:\ProgramData\Microsoft\Windows Defender\Support` and display ALL the parsed results in the console.
+1. If you run this script without any arguments, it will look for the MpLog file on the local machine in `C:\ProgramData\Microsoft\Windows Defender\Support` and display all parsed results in the console.
 
 ```
 .\MpLogParser.ps1

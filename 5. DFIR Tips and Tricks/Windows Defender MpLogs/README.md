@@ -31,3 +31,11 @@ I created this script for Live Response scenarios with Defender for Endpoint. Wh
 
 ![image](https://github.com/user-attachments/assets/1d471d0f-d1bc-4ce7-92a9-2548db62f0c5)
 
+4. Similarly, you can combine the `-CsvOutput` parameter with `-FilePath` to save the results in CSV format.
+
+```
+.\MpLogParser.ps1 -FilePath .\MPLog-20240704-220133.log -CsvOutput C:\MpResults\Results.csv
+```
+
+![image](https://github.com/user-attachments/assets/4a13a700-efd2-4d93-aa0b-d6166706ebb3)
+

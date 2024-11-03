@@ -22,4 +22,11 @@ I created this script for Live Response scenarios with Defender for Endpoint. Wh
 
 ![image](https://github.com/user-attachments/assets/747f5cf4-eba9-42e9-b151-59e9150d53c9)
 
+3. If you receive a disk image or VHD(X) from a customer and need to parse the MpLog file, you can use the `-FilePath` parameter to specify the exact location of the MpLog file.
+
+```
+.\MpLogParser.ps1 -FilePath C:\Users\Admin\Desktop\MPLog-20240704-220133.log
+```
+
+![image](https://github.com/user-attachments/assets/1d471d0f-d1bc-4ce7-92a9-2548db62f0c5)
 
